@@ -1,0 +1,24 @@
+#Front
+R O W
+Y R W
+B G O
+#Back
+B Y R
+G O O
+O B Y
+#Up
+G R W
+G B B
+G W G
+#Down
+Y G W
+Y R B
+G W B
+#Left
+W O Y
+B W O
+O B R
+#Right
+O R R
+G Y Y
+Y R W
