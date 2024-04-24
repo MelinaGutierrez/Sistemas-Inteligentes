@@ -18,7 +18,9 @@ Este proyecto consiste en crear un solucionador del Cubo de Rubik utilizando té
 ![Zip](/Mini%20Proyecto%20Cubo%20Rubik/src/zip.png)
 
 - **Formato de Carga del Cubo:** El archivo de texto debe contener los estados del cubo en formato de matrices.
-![Archivo .txt](/Mini%20Proyecto%20Cubo%20Rubik/src/formato_cubo.png)
+
+<img src="/Mini Proyecto Cubo Rubik/src/formato_cubo.png" width="100" height="100">
+
 - **Instrucciones para Ejecutar el Programa:** 
     1. Descarga o clona el proyecto.
     2. Abre una terminal en la carpeta del proyecto en Visual Studio Code.
