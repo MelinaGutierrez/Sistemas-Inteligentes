@@ -46,7 +46,8 @@ Para resolver el cubo, se definen seis tipos de movimientos, donde cada movimien
   - Implementar muy bien la heuristica, ya que le faltan cosas.
   - Aplicar desarrollo incremental para poder hacer un mejor seguimiento de la tarea.
   - Separa por funcionalidad y refactorizar.
-  ![Productividad](/Mini%20Proyecto%20Cubo%20Rubik/src/productividad.webp)
+  
+  <img src="/Mini Proyecto Cubo Rubik/src/productividad.webp">
 
 ## Ejemplo de Uso
 ```python
