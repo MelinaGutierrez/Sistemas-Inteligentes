@@ -19,7 +19,7 @@ Este proyecto consiste en crear un solucionador del Cubo de Rubik utilizando té
 
 - **Formato de Carga del Cubo:** El archivo de texto debe contener los estados del cubo en formato de matrices.
 
-<img src="/Mini Proyecto Cubo Rubik/src/formato_cubo.png" width="100" height="100">
+<img src="/Mini Proyecto Cubo Rubik/src/formato_cubo.png" width="100" >
 
 - **Instrucciones para Ejecutar el Programa:** 
     1. Descarga o clona el proyecto.
