@@ -4,7 +4,7 @@
 - **Nombre completo:** Melina Aylem Gutierrez Calizaya
 
 ## 2. Descripción del Proyecto
-Este proyecto consiste en crear un solucionador del Cubo de Rubik utilizando técnicas aprendidas en la materia de Sistemas Inteligentes. El objetivo es implementar heurísticas y el algoritmo A* para resolver el cubo de manera eficiente.
+Este proyecto consiste en crear un solucionador del Cubo de Rubik utilizando técnicas aprendidas en la materia de Sistemas Inteligentes. El objetivo es implementar heurísticas y el algoritmo A* para resolver el cubo de manera eficiente.(Pd. No se logro aún).
 
 ## 3. Requerimientos del Entorno de Programación
 - **Entorno de desarrollo:** Visual Studio Code
@@ -30,7 +30,7 @@ Este proyecto consiste en crear un solucionador del Cubo de Rubik utilizando té
 
 ## 5. Diseño e Implementación
 - **Modelo del Problema:**
-  El modelo del problema consiste en representar un cubo de Rubik o al menos se intento, utilizando una estructura de datos que almacene el estado de cada una de sus caras. Cada cara del cubo se representa como una matriz 3x3, donde cada elemento de la matriz corresponde a un color. El objetivo es encontrar una secuencia de movimientos que lleven el cubo desde un estado inicial (desordenado) a un estado final (ordenado).
+  El modelo del problema consiste en representar un cubo de Rubik o al menos se intento, almacenando el estado de cada una de sus caras. Cada cara del cubo se representa como una matriz 3x3, donde cada elemento de la matriz corresponde a un color. El objetivo es encontrar una secuencia de movimientos que lleven el cubo desde un estado inicial (desordenado) a un estado final (ordenado).
 ![cubo s](/Mini%20Proyecto%20Cubo%20Rubik/src/cubo_simulador.png)
 - **Algoritmo y Heurísticas:**
   Se trato de implementar el algoritmo A* para resolver el cubo de Rubik. A* nos ayuda a encontrar el camino mas corto y eficiente para resolver un problema en este caso pense que me ayudaria a resolver el cubo, si tan solo lo hubiera logrado, talvez. Se penso en usar la distancia de Manhattan, que mide la cantidad de movimientos necesarios para llevar cada cubo a su posición objetivo.
@@ -41,12 +41,13 @@ Para resolver el cubo, se definen seis tipos de movimientos, donde cada movimien
 
 ## 6. Trabajo Futuro
 - **Tareas Pendientes:**
+ MUY IMPORTANTE: TERMINAR DE IMPLEMENTAR EL SOLUCIONADOR Y LAS HEURISTICAS; SIN COMPROMETER EL APRENDIZAJE, ADEMAS DE BUSCAR MEJORES FORMAS DE PROGRAMAR EN PY
   - Lograr que funcione y si logre mover el cubo para que analice todos los moviemientos.
   - Mejorar la eficiencia del algoritmo(Usar POO)
   - Implementar muy bien la heuristica, ya que le faltan cosas.
   - Aplicar desarrollo incremental para poder hacer un mejor seguimiento de la tarea.
   - Separa por funcionalidad y refactorizar.
-  
+
   <img src="/Mini Proyecto Cubo Rubik/src/productividad.webp">
 
 ## Ejemplo de Uso
