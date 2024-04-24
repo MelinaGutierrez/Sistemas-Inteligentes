@@ -9,8 +9,8 @@ Este proyecto consiste en crear un solucionador del Cubo de Rubik utilizando té
 ## 3. Requerimientos del Entorno de Programación
 - **Entorno de desarrollo:** Visual Studio Code
 - **Lenguaje de Programación:** Python
-![Logo de Visual Studio Code](/Mini%20Proyecto%20Cubo%20Rubik/src/visual-studio-code-icon.webp)
-![Logo de Python](/Mini%20Proyecto%20Cubo%20Rubik/src/Python-logo.png)
+<img src="/Mini Proyecto Cubo Rubik/src/Python-logo.png" width="100" height="100">
+<img src="/Mini Proyecto Cubo Rubik/src/visual-studio-code-icon.webp" width="100" height="100">
 
 ## 4. Manual de Uso
 - **Instalación:** Puedes clonar este repositorio o descargarlo como archivo ZIP.
